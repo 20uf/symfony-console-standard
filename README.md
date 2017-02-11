@@ -1,7 +1,7 @@
 OsLab Console
 ========================
 
-[![Build Status](https://travis-ci.org/OsLab/console-standard.svg?branch=master)](https://travis-ci.org/OsLab/SupervisorBundle)
+[![Build Status](https://travis-ci.org/OsLab/symfony-console-standard.svg?branch=master)](https://travis-ci.org/OsLab/symfony-console-standard)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OsLab/console-standard/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/OsLab/console-standard/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/OsLab/console-standard/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/OsLab/console-standard/?branch=master)
 [![Total Downloads](https://poser.pugx.org/OsLab/console-standard/downloads)](https://packagist.org/packages/OsLab/console-standard)
