@@ -1,5 +1,14 @@
 <?php
 
+/*
+ * This file is part of the OsLabSupervisorBundle package.
+ *
+ * (c) OsLab <https://github.com/OsLab>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
 namespace OsLab\Console;
 
 use Symfony\Component\Console\Application;
@@ -35,8 +44,6 @@ class ConsoleApplication extends Application
         $loader->load('services.yml');
     }
 
-
-
     /**
      * Get Container.
      *
@@ -54,6 +61,7 @@ class ConsoleApplication extends Application
      */
     protected function getConfigDir()
     {
-        return __DIR__ . '/../../../app/config';
+        return __DIR__.'/../../../app/config';
     }
 }
+
