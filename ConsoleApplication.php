@@ -20,6 +20,7 @@ use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;
 /**
  * ConsoleApplication Class.
  *
+ * @author Michael COULLERET <michael@coulleret.org>0
  * @author Florent <orions07@gmail.com>
  */
 class ConsoleApplication extends Application
